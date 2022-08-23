@@ -7,6 +7,7 @@ import glob
 
 # Diego Fantino
 # since 31. October 2021
+# create and read password cards to remember your passwords easier
 
 alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789{%}?!._;-\'[]#'
 head = ['AB', 'CD', 'EF', 'GH', 'IJ', 'KL', 'MN', 'OP', 'QR', 'ST', 'UV', 'WX', 'YZ', '.,', '_;', '-:', '#%']
